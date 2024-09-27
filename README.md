@@ -1,4 +1,5 @@
 - 👋 Hi, I am Abhinay Padidala, a DevOps Engineer passionate about emerging technologies. I am eager to leverage my knowledge and skills to enhance the organization's ability to deliver high-quality software products.
+  
   • 𝗧𝗼𝗼𝗹𝘀:
     ➤ Cloud Platforms- AWS
     ➤ Infrastructure as Code(IaC)- Terraform, Ansible
